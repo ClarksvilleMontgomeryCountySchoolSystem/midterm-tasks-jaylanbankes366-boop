@@ -1,3 +1,9 @@
+# Testing flag - will be set by test
+TESTING = True  # <-- Should be False by default
+item = None
+price = None
+quantity = None
+
 print("""
 ========================================
    WELCOME TO THE PECULIAR EMPORIUM!
